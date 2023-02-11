@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'https://mb-pro.000webhostapp.com/websites/2013-dpointtechnologies-ci/';
+$config['base_url']	= 'https://mdb-website-2013-dpointtechnologies-ci.glitch.me/';
 
 /*
 |--------------------------------------------------------------------------
