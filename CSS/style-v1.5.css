@@ -20,14 +20,14 @@ table { border-collapse: collapse; border-spacing: 0; }
 /*---------- GLOBAL ----------*/
 .wrapper { width: 960px; margin: auto; }
 .clear { clear: both; }
-#Header { background: url(IMG1/Header-bg.jpg) #ededed repeat-x; height: 105px; 
+#Header { background: url(IMG1/Header-bg.html) #ededed repeat-x; height: 105px; 
 	position: absolute; top: 0; left: 0; width: 100%; z-index: 100000;
 	-webkit-box-shadow:  0px 5px 10px 0px rgba(0, 0, 0, .20);
     box-shadow:  0px 5px 10px 0px rgba(0, 0, 0, .20);} 
 #Header .social {height: 156px; position: absolute; top: 340px; left: 0px; position: fixed; width: 50px; z-index: 100000; }
 #Body .banner { background: #ee3e41; padding-top: 105px; }
 #Body .news { background: #1270a6; }
-#Footer { background: url(IMG1/footer-bg.jpg) repeat-x black; }
+#Footer { background: url(IMG1/footer-bg.html) repeat-x black; }
 
 #Body { background: #efefef; }
 
@@ -183,11 +183,11 @@ table { border-collapse: collapse; border-spacing: 0; }
 }
 
 .toolbar .pagintaion .prev_page {
-	background-image: url(images/prev-page.png);
+	background-image: url(images/prev-page.html);
 }
 
 .toolbar .pagintaion .next_page {
-	background-image: url(images/next-page.png);
+	background-image: url(images/next-page.html);
 }
 
 .toolbar .pagintaion .prev_page:hover,
@@ -218,11 +218,11 @@ table { border-collapse: collapse; border-spacing: 0; }
 }
 
 .toolbar .view-mode .switcher.switchToList {
-	background-image: url(images/list.png);
+	background-image: url(images/list.html);
 }
 
 .toolbar .view-mode .switcher.switchToGrid {
-	background-image: url(images/grid.png);
+	background-image: url(images/grid.html);
 }
 
 .toolbar .view-mode .switcher:hover,
